@@ -1,8 +1,3 @@
-#XBOX境外下载服务
-DOMAIN,assets2.xboxlive.com
-DOMAIN,assets1.xboxlive.com
-DOMAIN,xvcf2.xboxlive.com
-DOMAIN,xvcf1.xboxlive.com
 #Nvidia驱动下载
 DOMAIN-SUFFIX,ota-downloads.nvidia.com
 DOMAIN,images.nvidia.com,DIRECT
