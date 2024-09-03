@@ -51,10 +51,12 @@ DOMAIN-SUFFIX,sellercentral.amazon.com
 DOMAIN-SUFFIX,advertising.amazon.com
 DOMAIN-SUFFIX,lcs-cops.adobe.io
 
-# misc
+# MISC
 DOMAIN-SUFFIX,dogfight360.com
+DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,ip6.arpa
 
-# steam
+# Steam
 DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,test.steampowered.com
 DOMAIN,api.steampowered.com
