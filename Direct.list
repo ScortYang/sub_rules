@@ -12,6 +12,8 @@ DOMAIN,checkport.synology.com
 DOMAIN-SUFFIX,sellercentral.amazon.com
 DOMAIN-SUFFIX,advertising.amazon.com
 DOMAIN-SUFFIX,lcs-cops.adobe.io
+# misc
+DOMAIN-SUFFIX,dogfight360.com
 # steam
 DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,test.steampowered.com
