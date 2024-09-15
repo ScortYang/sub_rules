@@ -53,10 +53,10 @@ DOMAIN-SUFFIX,lcs-cops.adobe.io
 
 # MISC
 DOMAIN-SUFFIX,dogfight360.com
-DOMAIN-SUFFIX,ip-api.com
-DOMAIN-SUFFIX,ip6.arpa
-DOMAIN-SUFFIX,ip.sb
-DOMAIN-SUFFIX,api.ip.sb.cdn.cloudflare.net
+#DOMAIN-SUFFIX,ip-api.com
+#DOMAIN-SUFFIX,ip6.arpa
+#DOMAIN-SUFFIX,ip.sb
+#DOMAIN-SUFFIX,api.ip.sb.cdn.cloudflare.net
 
 # Steam
 DOMAIN-SUFFIX,cm.steampowered.com
