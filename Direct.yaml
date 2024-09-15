@@ -1,0 +1,112 @@
+payload:
+#ipv6
+  - DOMAIN-KEYWORD,ipv6
+  - DOMAIN-SUFFIX,amsterdam.test-ipv6.com
+  - DOMAIN-SUFFIX,chennai.test-ipv6.com
+  - DOMAIN-SUFFIX,frankfurt.test-ipv6.com
+  - DOMAIN-SUFFIX,losangeles.test-ipv6.com
+  - DOMAIN-SUFFIX,main.test-ipv6.com
+  - DOMAIN-SUFFIX,miami.test-ipv6.com
+  - DOMAIN-SUFFIX,newark.test-ipv6.com
+  - DOMAIN-SUFFIX,osaka.test-ipv6.com
+  - DOMAIN-SUFFIX,saopaulo.test-ipv6.com
+  - DOMAIN-SUFFIX,singapore.test-ipv6.com
+  - DOMAIN-SUFFIX,sixte.st
+  - DOMAIN-SUFFIX,sydney.test-ipv6.com
+  - DOMAIN-SUFFIX,test-ipv6.alpinedc.ch
+  - DOMAIN-SUFFIX,test-ipv6.belwue.net
+  - DOMAIN-SUFFIX,test-ipv6.carnet.hr
+  - DOMAIN-SUFFIX,test-ipv6.cl
+  - DOMAIN-SUFFIX,test-ipv6.coloradointerlink.net
+  - DOMAIN-SUFFIX,test-ipv6.com
+  - DOMAIN-SUFFIX,test-ipv6.cs.umd.edu
+  - DOMAIN-SUFFIX,test-ipv6.csclub.uwaterloo.ca
+  - DOMAIN-SUFFIX,test-ipv6.cz
+  - DOMAIN-SUFFIX,test-ipv6.epic.network
+  - DOMAIN-SUFFIX,test-ipv6.fratec.net
+  - DOMAIN-SUFFIX,test-ipv6.freerangecloud.com
+  - DOMAIN-SUFFIX,test-ipv6.hu
+  - DOMAIN-SUFFIX,test-ipv6.is
+  - DOMAIN-SUFFIX,test-ipv6.iu13.net
+  - DOMAIN-SUFFIX,test-ipv6.noroutetohost.net
+  - DOMAIN-SUFFIX,test-ipv6.roedu.net
+  - DOMAIN-SUFFIX,test-ipv6.se
+  - DOMAIN-SUFFIX,test-ipv6.ttk.ru
+  - DOMAIN-SUFFIX,testipv6.cn
+  - DOMAIN-SUFFIX,testipv6.de
+
+#Nvidia驱动下载
+  - DOMAIN-SUFFIX,ota-downloads.nvidia.com
+  - DOMAIN,images.nvidia.com,DIRECT
+  - DOMAIN-SUFFIX,cn.download.nvidia.com
+
+# 微软网络检查服务
+  - DOMAIN-SUFFIX,msftncsi.com
+  - DOMAIN-SUFFIX,msftconnecttest.com
+
+# 直连补充规则
+  - DOMAIN,checkip.synology.com
+  - DOMAIN,checkipv6.synology.com
+  - DOMAIN,checkport.synology.com
+  - DOMAIN-SUFFIX,sellercentral.amazon.com
+  - DOMAIN-SUFFIX,advertising.amazon.com
+  - DOMAIN-SUFFIX,lcs-cops.adobe.io
+
+# MISC
+- DOMAIN-SUFFIX,dogfight360.com
+#DOMAIN-SUFFIX,ip-api.com
+#DOMAIN-SUFFIX,ip6.arpa
+#DOMAIN-SUFFIX,ip.sb
+#DOMAIN-SUFFIX,api.ip.sb.cdn.cloudflare.net
+
+# Steam
+  - DOMAIN-SUFFIX,cm.steampowered.com
+  - DOMAIN-SUFFIX,test.steampowered.com
+  - DOMAIN,api.steampowered.com
+  - DOMAIN-SUFFIX,steamserver.net
+  - IP-CIDR,103.10.124.0/24,no-resolve
+  - IP-CIDR,103.10.125.0/24,no-resolve
+  - IP-CIDR,103.28.54.0/24,no-resolve
+  - IP-CIDR,146.66.152.0/24,no-resolve
+  - IP-CIDR,146.66.155.0/24,no-resolve
+  - IP-CIDR,153.254.86.0/24,no-resolve
+  - IP-CIDR,155.133.224.0/23,no-resolve
+  - IP-CIDR,155.133.226.0/24,no-resolve
+  - IP-CIDR,155.133.227.0/24,no-resolve
+  - IP-CIDR,155.133.230.0/24,no-resolve
+  - IP-CIDR,155.133.232.0/24,no-resolve
+  - IP-CIDR,155.133.233.0/24,no-resolve
+  - IP-CIDR,155.133.234.0/24,no-resolve
+  - IP-CIDR,155.133.236.0/23,no-resolve
+  - IP-CIDR,155.133.238.0/24,no-resolve
+  - IP-CIDR,155.133.239.0/24,no-resolve
+  - IP-CIDR,155.133.240.0/23,no-resolve
+  - IP-CIDR,155.133.245.0/24,no-resolve
+  - IP-CIDR,155.133.246.0/24,no-resolve
+  - IP-CIDR,155.133.248.0/24,no-resolve
+  - IP-CIDR,155.133.249.0/24,no-resolve
+  - IP-CIDR,155.133.250.0/24,no-resolve
+  - IP-CIDR,155.133.251.0/24,no-resolve
+  - IP-CIDR,155.133.252.0/24,no-resolve
+  - IP-CIDR,155.133.253.0/24,no-resolve
+  - IP-CIDR,155.133.254.0/24,no-resolve
+  - IP-CIDR,155.133.255.0/24,no-resolve
+  - IP-CIDR,162.254.192.0/24,no-resolve
+  - IP-CIDR,162.254.193.0/24,no-resolve
+  - IP-CIDR,162.254.194.0/23,no-resolve
+  - IP-CIDR,162.254.195.0/24,no-resolve
+  - IP-CIDR,162.254.196.0/24,no-resolve
+  - IP-CIDR,162.254.197.0/24,no-resolve
+  - IP-CIDR,162.254.198.0/24,no-resolve
+  - IP-CIDR,162.254.199.0/24,no-resolve
+  - IP-CIDR,185.25.182.0/24,no-resolve
+  - IP-CIDR,185.25.183.0/24,no-resolve
+  - IP-CIDR,190.217.33.0/24,no-resolve
+  - IP-CIDR,192.69.96.0/22,no-resolve
+  - IP-CIDR,205.185.194.0/24,no-resolve
+  - IP-CIDR,205.196.6.0/24,no-resolve
+  - IP-CIDR,208.64.200.0/24,no-resolve
+  - IP-CIDR,208.64.201.0/24,no-resolve
+  - IP-CIDR,208.64.202.0/24,no-resolve
+  - IP-CIDR,208.64.203.0/24,no-resolve
+  - IP-CIDR,208.78.164.0/22,no-resolve
