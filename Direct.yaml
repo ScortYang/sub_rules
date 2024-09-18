@@ -53,7 +53,7 @@ payload:
   - DOMAIN-SUFFIX,lcs-cops.adobe.io
 
 # MISC
-- DOMAIN-SUFFIX,dogfight360.com
+  - DOMAIN-SUFFIX,dogfight360.com
 #DOMAIN-SUFFIX,ip-api.com
 #DOMAIN-SUFFIX,ip6.arpa
 #DOMAIN-SUFFIX,ip.sb
