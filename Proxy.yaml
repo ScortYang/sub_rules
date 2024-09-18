@@ -382,7 +382,7 @@ payload:
   - '+.api.ipify.org.herokudns.com'
   - '+.api.ip.sb.cdn.cloudflare.net'
   - '+.a.nel.cloudflare.com
-IP-CIDR,104.17.107.0/24,no-resolve
+
 
 # MyList && Other
   - '+.ifixit.com'
