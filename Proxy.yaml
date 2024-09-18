@@ -1,6 +1,5 @@
 # 代理补充规则
-payload:
-# 机场
+payload: 
   - '+.tianshuhl.com'
   - '+.tshl.ru'
   - '+.tshl.online'
