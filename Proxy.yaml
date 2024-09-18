@@ -6,14 +6,14 @@ payload:
   - '+.tshl.online'
   - '+.tshl.cc'
   - '+.tshl.us'
-  - '+.tshl.xyz
-  - '+.bygcloud.com
+  - '+.tshl.xyz'
+  - '+.bygcloud.com'
   
 # twitter
-  - '+.x.com
+  - '+.x.com'
 
 #VAM
-  - '+.virtamate.com
+  - '+.virtamate.com'
 
 # porn
   - '+.0plkijj.vip'
@@ -369,11 +369,11 @@ payload:
   - '+.xxx.xxx'
   - '+.yjcontentdelivery.com'
   - '+.youav.com'
-  - '+.youjizz.com
+  - '+.youjizz.com'
 
 #cloudflare CDN
   - '+.ajax.cloudflare.com'
-  - '+.cdnjs.cloudflare.com
+  - '+.cdnjs.cloudflare.com'
 
 #skkAPI
   - '+.ip.sb'
@@ -381,7 +381,7 @@ payload:
   - '+.api.ipify.org'
   - '+.api.ipify.org.herokudns.com'
   - '+.api.ip.sb.cdn.cloudflare.net'
-  - '+.a.nel.cloudflare.com
+  - '+.a.nel.cloudflare.com'
 
 
 # MyList && Other
@@ -429,6 +429,6 @@ payload:
   - '+.txmblr.com'
   - '+.vox-cdn.com'
   - '+.zukrass.cc'
-  - '+.breached.to
+  - '+.breached.to'
 
 
