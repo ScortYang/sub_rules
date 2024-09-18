@@ -4,4 +4,4 @@ payload:
   - '+.bing.net'
   - '+.bingapis.com'
   - '+.bingparachute.com'
-  
+  - 'p-static.bing.trafficmanager.net'
