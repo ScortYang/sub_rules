@@ -13,6 +13,10 @@ payload:
 
 #VAM
   - '+.virtamate.com'
+  
+#MISC
+  - '+.lme.com'
+  - '+.lbma.org.uk'
 
 # porn
   - '+.0plkijj.vip'
