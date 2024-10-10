@@ -1,6 +1,7 @@
 #bing Manual
 payload:
   - '+.bing.com'
+  - '+.msn.com'
   - '+.bing.net'
   - '+.bingapis.com'
   - '+.bingparachute.com'
