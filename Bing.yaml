@@ -6,3 +6,5 @@ payload:
   - '+.bingapis.com'
   - '+.bingparachute.com'
   - 'p-static.bing.trafficmanager.net'
+  - 'copilot.microsoft.com'
+  - 'copilot.cloud.microsoft'
