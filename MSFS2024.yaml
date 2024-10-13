@@ -10,7 +10,6 @@ payload:
   - 'content2.prod.catalog.playfab.com'
   - 'kh.ssl.ak.tiles.virtualearth.net'
   - 'multiplayer-sr-live.prod.sunrise.msgamestudios.com'
-  - 'oneocsp.microsoft.com'
   - 'p.clarity.ms'
   - 'prod-eastasia.access-point.cloudmessaging.edge.microsoft.com'
   - 'pubsub-signalr-prod-westus3-002.service.signalr.net'
