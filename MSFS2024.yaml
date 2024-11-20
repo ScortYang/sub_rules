@@ -16,6 +16,6 @@ payload:
   - 'weather-sr-live.prod.sunrise.msgamestudios.com'
   - 'webps-prod-sr-pubsub.webpubsub.azure.com'
   - 'kittyhawk2-dev.azureedge.net'
-  - 'flightsimulator.com'
+  - '+.flightsimulator.com'
 #FBW
   - '+.flybywirecdn.com'
