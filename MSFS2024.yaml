@@ -17,5 +17,6 @@ payload:
   - 'webps-prod-sr-pubsub.webpubsub.azure.com'
   - 'kittyhawk2-dev.azureedge.net'
   - '+.flightsimulator.com'
+  - 'sunriseworld.akamaized.net'
 #FBW
   - '+.flybywirecdn.com'
