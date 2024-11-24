@@ -20,6 +20,7 @@ payload:
   - '+.flightsimulator.com'
   - 'sunriseworld.akamaized.net'
   - 'sunrisecontent.akamaized.net'
+  - 'worldmapservice-sr-live.prod.sunrise.msgamestudios.com'
   - 'foxtrotatlasprod.blob.core.windows.net'
 #FBW
   - '+.flybywirecdn.com'
