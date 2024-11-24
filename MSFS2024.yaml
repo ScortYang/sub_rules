@@ -10,6 +10,7 @@ payload:
   - 'cdn-shared-wca-endpoint.azureedge.net'
   - 'content2.prod.catalog.playfab.com'
   - '+.virtualearth.net'
+  - '+.virtualearth.net.edgekey.net'
   - 'multiplayer-sr-live.prod.sunrise.msgamestudios.com'
   - 'p.clarity.ms'
   - 'pubsub-signalr-prod-westus3-002.service.signalr.net'
