@@ -18,6 +18,7 @@ payload:
   - 'kittyhawk2-dev.azureedge.net'
   - '+.flightsimulator.com'
   - 'sunriseworld.akamaized.net'
+  - 'sunrisecontent.akamaized.net'
   - 'foxtrotatlasprod.blob.core.windows.net'
 #FBW
   - '+.flybywirecdn.com'
