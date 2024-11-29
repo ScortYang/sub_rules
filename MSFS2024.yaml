@@ -5,6 +5,7 @@ payload:
   - 'cdn-prod-sr-cognitivecache.azureedge.net'
   - 'cdn-prod-sr-live-cds-endpoint.azureedge.net'
   - 'cdn-prod-sr-live-cs-endpoint.azureedge.net'
+  - 'cdn-prod-sr-live-marketplace-endpoint.azureedge.net'
   - 'cdn-prod-sr-marinetraffic.azureedge.net'
   - 'cdn-prod-sr-weather.azureedge.net'
   - 'cdn-shared-wca-endpoint.azureedge.net'
