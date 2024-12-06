@@ -23,5 +23,6 @@ payload:
   - 'sunrisecontent.akamaized.net'
   - 'worldmapservice-sr-live.prod.sunrise.msgamestudios.com'
   - 'foxtrotatlasprod.blob.core.windows.net'
+  - 'khmarketcdn.azureedge.net'
 #FBW
   - '+.flybywirecdn.com'
