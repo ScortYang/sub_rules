@@ -21,6 +21,7 @@ payload:
   - '+.flightsimulator.com'
   - 'sunriseworld.akamaized.net'
   - 'sunrisecontent.akamaized.net'
+  - 'sunriseairtraffic.akamaized.net'
   - 'worldmapservice-sr-live.prod.sunrise.msgamestudios.com'
   - 'foxtrotatlasprod.blob.core.windows.net'
   - 'khmarketcdn.azureedge.net'
