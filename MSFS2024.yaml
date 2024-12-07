@@ -26,3 +26,5 @@ payload:
   - 'khmarketcdn.azureedge.net'
 #FBW
   - '+.flybywirecdn.com'
+#FlightSim.to
+  - '+.flightsim.to'
