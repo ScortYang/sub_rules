@@ -38,7 +38,7 @@ payload:
 #Nvidia驱动下载
   - DOMAIN-SUFFIX,ota-downloads.nvidia.com
   - DOMAIN,images.nvidia.com,DIRECT
-  - DOMAIN-SUFFIX,cn.download.nvidia.com
+  - DOMAIN-SUFFIX,download.nvidia.com
 
 # 微软网络检查服务
   - DOMAIN-SUFFIX,msftncsi.com
