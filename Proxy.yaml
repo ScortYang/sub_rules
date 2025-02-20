@@ -8,7 +8,10 @@ payload:
   - '+.tshl.xyz'
   - '+.bygcloud.com'
   - '+.id9.cc
-  
+
+# Nvidia
+  - 'nvidia.com'
+
 # twitter
   - '+.x.com'
 
