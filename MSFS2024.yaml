@@ -22,6 +22,7 @@ payload:
   - 'sunriseairtraffic.akamaized.net'
   - 'foxtrotatlasprod.blob.core.windows.net'
   - 'khmarketcdn.azureedge.net'
+  - 'khstorelive.azureedge.net'
 #FBW
   - '+.flybywirecdn.com'
 #FlightSim.to
