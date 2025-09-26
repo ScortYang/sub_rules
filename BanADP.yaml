@@ -4,3 +4,8 @@ payload:
   - DOMAIN-SUFFIX,msn.cn
 #  - IP-CIDR,202.89.233.100/32,no-resolve
 #  - IP-CIDR,202.89.233.101/32,no-resolve
+  - DOMAIN-SUFFIX,ad-delivery.net
+  - DOMAIN,ad.doubleclick.net
+  - DOMAIN-SUFFIX,mediav.com
+  - DOMAIN-SUFFIX,360.cn
+  - DOMAIN-SUFFIX,pos.baidu.com
