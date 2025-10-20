@@ -56,6 +56,7 @@ payload:
 # MISC
   - DOMAIN-SUFFIX,dogfight360.com
   #- DOMAIN-SUFFIX,lbma.org.uk
+  - DOMAIN-SUFFIX,lme.com
 #DOMAIN-SUFFIX,ip-api.com
 #DOMAIN-SUFFIX,ip6.arpa
 #DOMAIN-SUFFIX,ip.sb
