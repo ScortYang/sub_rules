@@ -10,10 +10,11 @@ inputs:
 runs:
   using: 'composite'
   steps:
-    - name: Setup
+    - name: Setup ZeroSSL credentials
       shell: bash
       run: |
-        echo "Email address for ZeroSSL registration: ${{ inputs.email-address }}"
+        echo "::add-mask::${{ inputs.email-address }}"
+        echo "ZeroSSL email address configured successfully"
 
 branding:
   icon: 'shield'
