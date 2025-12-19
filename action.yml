@@ -1,0 +1,19 @@
+name: 'Sub Rules with ZeroSSL'
+description: 'Clash proxy rules with ZeroSSL certificate support'
+author: 'ScortYang'
+
+inputs:
+  email-address:
+    description: 'Email address for ZeroSSL registration credentials'
+    required: true
+
+runs:
+  using: 'composite'
+  steps:
+    - name: Setup
+      shell: bash
+      run: echo "Email address for ZeroSSL registration: ${{ inputs.email-address }}"
+
+branding:
+  icon: 'shield'
+  color: 'blue'
