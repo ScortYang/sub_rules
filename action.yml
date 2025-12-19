@@ -12,7 +12,8 @@ runs:
   steps:
     - name: Setup
       shell: bash
-      run: echo "Email address for ZeroSSL registration: ${{ inputs.email-address }}"
+      run: |
+        echo "Email address for ZeroSSL registration: ${{ inputs.email-address }}"
 
 branding:
   icon: 'shield'
