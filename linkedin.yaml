@@ -2,4 +2,6 @@ payload:
   - DOMAIN-SUFFIX,linkedin.com
   - DOMAIN-SUFFIX,trkn.us
   - DOMAIN-SUFFIX,licdn.com
-  - DOMAIN,li.protechts.net
+  - DOMAIN-SUFFIX,protechts.net
+  - DOMAIN,lnkd.demdex.net
+  - DOMAIN-SUFFIX,ns1p.net
