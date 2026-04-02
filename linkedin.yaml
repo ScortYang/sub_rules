@@ -1,2 +1,4 @@
 payload:
-  - DOMAIN-WILDCARD,*.linkedin.com
+  - DOMAIN-SUFFIX,linkedin.com
+  - DOMAIN-SUFFIX,trkn.us
+  - DOMAIN-SUFFIX,licdn.com
