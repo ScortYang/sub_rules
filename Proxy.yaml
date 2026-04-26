@@ -8,7 +8,7 @@ payload:
   - '+.tshl.xyz'
   - '+.bygcloud.com'
   - '+.id9.cc
-
+  - 'performance.radar.cloudflare.com'
 # Nvidia
   - 'nvidia.com'
 
