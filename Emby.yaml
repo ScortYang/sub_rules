@@ -1,4 +1,5 @@
 payload:
-  - 'emby.medi4.org'
-  - 'tv.ash.yt'
-  - 'ask.ash.yt'
+  - DOMAIN,emby.medi4.org
+  - DOMAIN,tv.ash.yt
+  - DOMAIN,ask.ash.yt
+

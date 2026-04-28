@@ -1,10 +1,11 @@
 #bing Manual
 payload:
-  - '+.bing.com'
-  - '+.msn.com'
-  - '+.bing.net'
-  - '+.bingapis.com'
-  - '+.bingparachute.com'
-  - 'p-static.bing.trafficmanager.net'
-  - 'copilot.microsoft.com'
-  - 'copilot.cloud.microsoft'
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,msn.com
+  - DOMAIN-SUFFIX,bing.net
+  - DOMAIN-SUFFIX,bingapis.com
+  - DOMAIN-SUFFIX,bingparachute.com
+  - DOMAIN,p-static.bing.trafficmanager.net
+  - DOMAIN,copilot.microsoft.com
+  - DOMAIN,copilot.cloud.microsoft
+  - DOMIAN,performance.radar.cloudflare.com

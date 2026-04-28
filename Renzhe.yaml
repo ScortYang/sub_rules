@@ -1,9 +1,9 @@
 payload:
-  - 'renzhe.cloud'
-  - 'renzhecloud.com'
-  - 'knowledgebase.renzhecloud.link'
-  - 'status.renzhecloud.link'
-  - 'renzhesubconverter.com'
-  - 'share.renzhe.cloud'
-  - 'merchant.renzhe.cloud'
-#  - 'emby.medi4.org'
+  DOMAIN,renzhe.cloud
+  DOMAIN,renzhecloud.com
+  DOMAIN,knowledgebase.renzhecloud.link
+  DOMAIN,status.renzhecloud.link
+  DOMAIN,share.renzhe.cloud
+  DOMAIN,merchant.renzhe.cloud
+  # DOMAIN,renzhesubconverter.com
+
