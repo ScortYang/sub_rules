@@ -1,8 +1,8 @@
 payload:
-  DOMAIN,renzhe.cloud
-  DOMAIN,renzhecloud.com
-  DOMAIN,knowledgebase.renzhecloud.link
-  DOMAIN,status.renzhecloud.link
-  DOMAIN,share.renzhe.cloud
-  DOMAIN,merchant.renzhe.cloud
+  - DOMAIN,renzhe.cloud
+  - DOMAIN,renzhecloud.com
+  - DOMAIN,knowledgebase.renzhecloud.link
+  - DOMAIN,status.renzhecloud.link
+  - DOMAIN,share.renzhe.cloud
+  - DOMAIN,merchant.renzhe.cloud
 
