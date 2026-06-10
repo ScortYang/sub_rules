@@ -1,8 +1,8 @@
 payload:
 #ipv6
   - DOMAIN-KEYWORD,ipv6
-  - DOMAIN,ninjasub.com
-  - DOMAIN,right.codes
+  - DOMAIN-SUFFIX,ninjasub.com
+  - DOMAIN-SUFFIX,right.codes
   - DOMAIN-SUFFIX,amsterdam.test-ipv6.com
   - DOMAIN-SUFFIX,chennai.test-ipv6.com
   - DOMAIN-SUFFIX,frankfurt.test-ipv6.com
