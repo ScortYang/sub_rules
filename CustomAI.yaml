@@ -1,3 +1,7 @@
 payload:
   - DOMAIN-SUFFIX, packyapi.com
+  - DOMAIN-SUFFIX, packyapi.ai
+  - DOMAIN, cf.api.fan
+  - DOMAIN, slb-v1.api.fan
   - DOMAIN-SUFFIX, fishxcode.com
+  - DOMAIN-SUFFIX, rightapi.ai
