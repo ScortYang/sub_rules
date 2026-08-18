@@ -12,6 +12,7 @@ payload:
   - DOMAIN-WILDCARD,flightsimulator.com
   - DOMAIN-WILDCARD,sunrise*.akamaized.net
   - DOMAIN-SUFFIX,flybywirecdn.com
+  - DOMAIN-SUFFIX,flybywiresim.com
   - DOMAIN-SUFFIX,flightsim.to
   - DOMAIN,khmarketcdn.azureedge.net
   - DOMAIN,khstorelive.azureedge.net
