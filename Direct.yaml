@@ -64,6 +64,9 @@ payload:
 #DOMAIN-SUFFIX,ip.sb
 #DOMAIN-SUFFIX,api.ip.sb.cdn.cloudflare.net
 
+# 机场订阅
+  - DOMAIN, profile.honeyvora.com
+
 # Steam
   - DOMAIN-SUFFIX,cm.steampowered.com
   - DOMAIN-SUFFIX,test.steampowered.com
