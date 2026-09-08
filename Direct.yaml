@@ -59,6 +59,7 @@ payload:
   - DOMAIN-SUFFIX,dogfight360.com
   - DOMAIN,ieee.atyponrex.com
   - PROCESS-NAME-WILDCARD,*tailscaled*
+  - DOMAIN-SUFFIX,tailscale.com
 #DOMAIN-SUFFIX,ip-api.com
 #DOMAIN-SUFFIX,ip6.arpa
 #DOMAIN-SUFFIX,ip.sb
