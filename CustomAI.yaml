@@ -5,3 +5,5 @@ payload:
   - DOMAIN, slb-v1.api.fan
   - DOMAIN-SUFFIX, fishxcode.com
   - DOMAIN-SUFFIX, rightapi.ai
+  - DOMAIN-SUFFIX, rightapi.io
+  - DOMAIN, api.site
